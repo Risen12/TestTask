@@ -1,0 +1,16 @@
+C:\Users\Danya\source\repos\TestTask\TestTask\bin\Debug\netstandard2.0\TestTask.deps.json
+C:\Users\Danya\source\repos\TestTask\TestTask\bin\Debug\netstandard2.0\TestTask.dll
+C:\Users\Danya\source\repos\TestTask\TestTask\bin\Debug\netstandard2.0\TestTask.pdb
+C:\Users\Danya\source\repos\TestTask\TestTask\obj\Debug\netstandard2.0\TestTask.csproj.AssemblyReference.cache
+C:\Users\Danya\source\repos\TestTask\TestTask\obj\Debug\netstandard2.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danya\source\repos\TestTask\TestTask\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Danya\source\repos\TestTask\TestTask\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Danya\source\repos\TestTask\TestTask\obj\Debug\netstandard2.0\TestTask.AssemblyInfoInputs.cache
+C:\Users\Danya\source\repos\TestTask\TestTask\obj\Debug\netstandard2.0\TestTask.AssemblyInfo.cs
+C:\Users\Danya\source\repos\TestTask\TestTask\obj\Debug\netstandard2.0\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Danya\source\repos\TestTask\TestTask\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Danya\source\repos\TestTask\TestTask\obj\Debug\netstandard2.0\TestTask.dll
+C:\Users\Danya\source\repos\TestTask\TestTask\obj\Debug\netstandard2.0\refint\TestTask.dll
+C:\Users\Danya\source\repos\TestTask\TestTask\obj\Debug\netstandard2.0\TestTask.pdb
+C:\Users\Danya\source\repos\TestTask\TestTask\obj\Debug\netstandard2.0\ref\TestTask.dll
+C:\Users\Danya\source\repos\TestTask\TestTask\obj\Debug\netstandard2.0\OfferPage.xaml.g.cs

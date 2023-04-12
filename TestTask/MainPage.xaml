@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestTask.MainPage">
+
+
+    <ContentPage.Content>
+        <Grid Padding="8" x:Name="root">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="680"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Frame BorderColor="LightGray" CornerRadius="10" HasShadow="True" Grid.Row="0">
+                <ListView x:Name="IdList" ItemTapped="OfferSelected"/>
+            </Frame>
+            <Button Clicked="GetId" Text="Получить список ID" Grid.Row="1"></Button>
+            <AbsoluteLayout HorizontalOptions="CenterAndExpand"  VerticalOptions="CenterAndExpand" Grid.RowSpan="2">
+                <ActivityIndicator x:Name="Loading" Color="CadetBlue" IsVisible="false" HeightRequest="70" WidthRequest="70"/>
+            </AbsoluteLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
